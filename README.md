@@ -1,4 +1,4 @@
-# Hola, soy <Ricardo Rojas> 👋
+# Hola, soy Ricardo Rojas 👋
 
 Estudiante de **Full Stack Developer** en ConquerBlocks. Aprendo construyendo proyectos: hoy practico con Python, Flask y bases de datos, y estoy sumando React.
 
